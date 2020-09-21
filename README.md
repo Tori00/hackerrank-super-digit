@@ -1,2 +1,4 @@
 # hackerrank-super-digit
-Solution of the problem 'Super Digit' on HackerRank
+This is a solution for the problem named "Super Digit" in HackerRank written in Scala.
+
+Find details here: https://www.hackerrank.com/challenges/super-digit/problem
